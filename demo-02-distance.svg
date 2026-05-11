@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa" rx="8"/>
+  <text x="20" y="30" fill="#333" font-size="14" font-weight="bold" font-family="Arial">配图：距离计算配置面板</text>
+  <rect x="20" y="45" width="360" height="240" fill="white" stroke="#ddd" stroke-width="1" rx="4"/>
+  <text x="35" y="70" fill="#666" font-size="11" font-family="Arial">操作模式：[距离计算（两点距离） ▼]</text>
+  <text x="35" y="95" fill="#666" font-size="11" font-family="Arial">起点纬度：[门店纬度 ▼] 起点经度：[门店经度 ▼]</text>
+  <text x="35" y="120" fill="#666" font-size="11" font-family="Arial">终点纬度：[客户纬度 ▼] 终点经度：[客户经度 ▼]</text>
+  <text x="35" y="145" fill="#666" font-size="11" font-family="Arial">距离单位：[千米 (km) ▼]</text>
+  <rect x="35" y="160" width="80" height="25" rx="3" fill="#4a90d9"/>
+  <text x="75" y="176" text-anchor="middle" fill="white" font-size="11" font-family="Arial">运行</text>
+  <rect x="35" y="195" width="330" height="50" rx="3" fill="#e8f5e9"/>
+  <text x="45" y="213" fill="#2e7d32" font-size="10" font-family="Arial">📏 距离计算结果</text>
+  <text x="45" y="230" fill="#2e7d32" font-size="10" font-family="Arial">起点: 39.9087, 116.4716 → 终点: 39.9825, 116.3084</text>
+  <text x="45" y="247" fill="#2e7d32" font-size="10" font-family="Arial">距离: 15.8 千米</text>
+</svg>

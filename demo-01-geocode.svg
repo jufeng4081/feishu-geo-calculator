@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa" rx="8"/>
+  <text x="20" y="30" fill="#333" font-size="14" font-weight="bold" font-family="Arial">配图：地理编码（地址→坐标）配置面板</text>
+  <rect x="20" y="45" width="360" height="240" fill="white" stroke="#ddd" stroke-width="1" rx="4"/>
+  <text x="35" y="70" fill="#666" font-size="11" font-family="Arial">操作模式：[地理编码（地址→坐标） ▼]</text>
+  <text x="35" y="95" fill="#666" font-size="11" font-family="Arial">服务商：[Nominatim（免费） ▼]</text>
+  <text x="35" y="120" fill="#666" font-size="11" font-family="Arial">API Key：[（免费无需填写）]</text>
+  <text x="35" y="145" fill="#666" font-size="11" font-family="Arial">地址字段：[客户地址 ▼]</text>
+  <text x="35" y="170" fill="#666" font-size="11" font-family="Arial">输出格式：[完整信息 ▼]</text>
+  <rect x="35" y="185" width="80" height="25" rx="3" fill="#4a90d9"/>
+  <text x="75" y="201" text-anchor="middle" fill="white" font-size="11" font-family="Arial">运行</text>
+  <rect x="35" y="220" width="330" height="50" rx="3" fill="#e8f5e9"/>
+  <text x="45" y="238" fill="#2e7d32" font-size="10" font-family="Arial">📍 地址: 北京市朝阳区建国路88号</text>
+  <text x="45" y="255" fill="#2e7d32" font-size="10" font-family="Arial">🌐 坐标: 39.9087, 116.4716</text>
+</svg>

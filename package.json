@@ -1,0 +1,20 @@
+{
+  "name": "feishu-geo-calculator",
+  "version": "1.0.0",
+  "description": "地址坐标计算 — 地理编码/逆地理编码/距离计算/半径检索",
+  "main": "index.js",
+  "scripts": {
+    "start": "block-basekit-cli start:field",
+    "build": "block-basekit-cli build:field",
+    "pack": "block-basekit-cli pack:field",
+    "dev": "block-basekit-cli dev:field"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@lark-opdev/block-basekit-cli": "^1.0.5",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@lark-opdev/block-basekit-server-api": "^1.0.6"
+  }
+}
